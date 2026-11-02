@@ -1,7 +1,7 @@
 /**
  * @file locket_firebase_response.js
  * Override Firebase Remote Config Response for Locket
- * By Xwuan
+ * By duckzangryy
  */
 
 var customConfig = {

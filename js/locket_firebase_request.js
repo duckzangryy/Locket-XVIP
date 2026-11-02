@@ -1,7 +1,7 @@
 /**
  * @file locket_firebase_request.js
  * Modify Firebase Remote Config Request for Locket (Super VIP Pro Max)
- * By Xwuan
+ * By duckzangryy
  */
 
 function setHeaderValue(headers, key, val) {

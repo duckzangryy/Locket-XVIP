@@ -1,7 +1,7 @@
 /**
  * @file locket_revenuecat_request.js
  * Remove ETag header from RevenueCat requests to prevent 304 Not Modified
- * By Xwuan
+ * By duckzangryy
  */
 
 function setHeaderValue(headers, key, val) {

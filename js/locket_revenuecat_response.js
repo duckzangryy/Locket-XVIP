@@ -1,7 +1,7 @@
 /**
  * @file locket_revenuecat_response.js
  * Unlock Locket Gold Lifetime via RevenueCat
- * By Xwuan
+ * By duckzangryy
  */
 
 var obj = {};
@@ -43,6 +43,6 @@ obj.subscriber.subscriptions["locket_1600_1y"] = goldSubscription;
 obj.subscriber.subscriptions["locket_199_1m"] = goldSubscription;
 obj.subscriber.entitlements["Gold"] = goldEntitlement;
 
-obj.Attention = "Locket-XVIP Activated by Xwuan!";
+obj.Attention = "Locket-XVIP Activated by duckzangryy!";
 
 $done({ body: JSON.stringify(obj) });
